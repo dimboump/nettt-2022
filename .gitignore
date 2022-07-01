@@ -1,5 +1,9 @@
 api/
+data/
+*.txt
 *.json
+*.csv
+*.tsv
 
 # GitHub's Python.gitignore
 # Byte-compiled / optimized / DLL files
